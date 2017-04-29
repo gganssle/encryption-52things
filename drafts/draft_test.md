@@ -3,7 +3,7 @@
 *By Graham Ganssle, 20170427.*
 
 ---
-*Find all the code and the referenced free apps in this article’s GitHub repo: [https://github.com/gganssle/encryption-52things](https://github.com/gganssle/encryption-52things) *
+*Find all the code and the referenced free apps in this article’s GitHub repo: [https://github.com/gganssle/encryption-52things](https://github.com/gganssle/encryption-52things)*
 
 ---
 
