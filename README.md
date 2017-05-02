@@ -2,7 +2,7 @@
 
 This is the code for the Encryption chapter in 52 Things You Should Know About Geocomputing by Graham Ganssle.
 
-[Plain image data vs. cipher image data](img/plain_v_cipher.png "Plain image data vs. cipher image data")
+![Plain image data vs. cipher image data](img/plain_v_cipher.png "Plain image data vs. cipher image data")
 
 ---
 
