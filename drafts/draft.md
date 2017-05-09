@@ -9,6 +9,7 @@
 ---
 
 ![Encrypted Seismic Line](../img/plain_v_cipher.png "Encrypted Seismic Line")
+###### A piece of Teapot Dome "Line A" and its encrypted counterpart. Plaindata obtained from [RMOTC and the U.S. Department of Energy](https://energy.gov/node/1012461/datasets.html) via the [SEG](http://wiki.seg.org/wiki/Teapot_dome_3D_survey).
 
 ## Why Encrypt Seismic Data?
 
