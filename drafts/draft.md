@@ -22,7 +22,7 @@ Pick your flavor: symmetric or asymmetric. Symmetric encryption goes like this: 
 
 ![TEA Algorithm](../img/TEA_protocol_cartoon.png "TEA Algorithm")
 
-*A pictorial representation of two cycles in an 8-bit version of a rotating-key Tiny Encryption Algorithm by Wheeler and Needham, a symmetric encryption workflow designed in the 1990s.*
+###### *A pictorial representation of two cycles in an 8-bit version of a rotating-key Tiny Encryption Algorithm by Wheeler and Needham, a symmetric encryption workflow designed in the 1990s.*
 
 The axiom, “someone is listening to your communication,” eliminates the possibility of sending a password to the data recipient. If there were a malicious third party attempting to steal your seismic data, that party would, by definition, also be capable of stealing the password to your encrypted seismic data file. So instead, during asymmetric encryption, the data is encrypted using a combination of two passwords, one of which the sender owns and one of which the recipient owns.
 
@@ -34,10 +34,10 @@ There are few commercial encryption tools which are acceptable for use. That’s
 
 I recommend (at the time of writing) the following free encryption software:
 
-To encrypt files symmetrically: AEScrypt ([https://www.aescrypt.com/](https://www.aescrypt.com/))
-To encrypt files asymmetrically: GnuPG ([https://www.gnupg.org/](https://www.aescrypt.com/))
-To encrypt full disks on (gasp) Windows symmetrically: DiskCryptor ([https://diskcryptor.net/](https://diskcryptor.net/))
-To encrypt emails asymmetrically: OpenPGP via Enigmail ([https://www.enigmail.net/](https://www.enigmail.net/))
+* To encrypt files symmetrically: AEScrypt ([https://www.aescrypt.com/](https://www.aescrypt.com/))
+* To encrypt files asymmetrically: GnuPG ([https://www.gnupg.org/](https://www.aescrypt.com/))
+* To encrypt full disks on (gasp) Windows symmetrically: DiskCryptor ([https://diskcryptor.net/](https://diskcryptor.net/))
+* To encrypt emails asymmetrically: OpenPGP via Enigmail ([https://www.enigmail.net/](https://www.enigmail.net/))
 
 Use them. They’re free, and their encryption protocols are unbreakable by modern standards. Seismic data is expensive and difficult to acquire. Remember, if it isn’t yours to give, don’t give it away.
 
